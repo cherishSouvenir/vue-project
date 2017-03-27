@@ -1,2 +1,2 @@
 # vue-project
-this is some project based on vue
+this is some project based on vue by myself
